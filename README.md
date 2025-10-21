@@ -1,26 +1,25 @@
 # 🌟 React UI Project
 
-A modern and responsive **React UI** built with **React**, **Tailwind CSS**, and **reusable components** using **props**.  
-This project focuses on clean design, modular structure, and fast performance.
-
----
-
-## 🚀 Tech Stack
-- ⚛️ React (Functional Components)
-- 🎨 Tailwind CSS
-- 🧩 Props for dynamic components
-- ⚡ Vite for fast development
+A clean and responsive **React UI** built using **components**, **props**, and **Tailwind CSS**.  
+This project focuses on reusable design patterns, simplicity, and fast performance.
 
 ---
 
 ## 🖼️ Project Preview
-![Project Screenshot](./screenshots/preview.png)
+![Project Screenshot](./React-Ui.png)
 
-*(Add your screenshot inside a folder named `/screenshots` in your project root)*
+*(Ensure the image file `React-Ui.png` is in your main project folder.)*
 
 ---
 
-## 💻 Installation
+## 🚀 Tech Stack
+- ⚛️ **React** – Functional Components & Props  
+- 🎨 **Tailwind CSS** – Modern styling  
+- ⚡ **Vite** – Lightning-fast build tool  
+
+---
+
+## 💻 Setup
 ```bash
 git clone https://github.com/your-username/react-ui-project.git
 cd react-ui-project
