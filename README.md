@@ -8,8 +8,6 @@ This project focuses on reusable design patterns, simplicity, and fast performan
 ## 🖼️ Project Preview
 ![Project Screenshot](./React-Ui.png)
 
-*(Ensure the image file `React-Ui.png` is in your main project folder.)*
-
 ---
 
 ## 🚀 Tech Stack
